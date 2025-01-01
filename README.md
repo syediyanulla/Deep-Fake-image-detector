@@ -1,4 +1,4 @@
-# AI Generated Detector App
+# Deep-fake-image-detector Detector App
 
 A Streamlit-based web application that detects AI-generated (deepfake) images using various deep learning models. The app uses state-of-the-art architectures like EfficientNet and provides real-time analysis of uploaded images.
 
